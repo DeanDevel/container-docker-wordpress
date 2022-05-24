@@ -13,7 +13,7 @@ DEVELOPERS ONLY:\
 --------------------------------\
 url: domain-phpmyadmin.name.net\
 username: root\
-password: root\
+password: root
 
 
 yaml file contains ports:: default -> localhost:8080 & localhost:8081
